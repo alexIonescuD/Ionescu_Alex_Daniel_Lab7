@@ -1,5 +1,4 @@
 using Ionescu_Alex_Daniel_Lab7.Models;
-
 namespace Ionescu_Alex_Daniel_Lab7;
 
 public partial class ProductPage : ContentPage
